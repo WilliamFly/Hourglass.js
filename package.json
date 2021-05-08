@@ -1,0 +1,22 @@
+{
+  "name": "js-library-muchawil",
+  "version": "1.0.0",
+  "description": "hourglass.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csc309-winter-2021/js-library-muchawil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csc309-winter-2021/js-library-muchawil/issues"
+  },
+  "homepage": "https://github.com/csc309-winter-2021/js-library-muchawil#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
