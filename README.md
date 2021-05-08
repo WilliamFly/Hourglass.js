@@ -1,4 +1,4 @@
-# js-library-muchawil
+# Hourglass.js
 
 **Website URL:**
 https://hourglass-library.herokuapp.com/
